@@ -1,5 +1,4 @@
 import React from 'react'
-import { FaLinkedin,FaGithub } from 'react-icons/fa'
 import {BsFillPersonLinesFill, BsPhone} from 'react-icons/bs'
 import { MdEmail } from 'react-icons/md';
 const SocialMedia = () => {
