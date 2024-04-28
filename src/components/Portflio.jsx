@@ -47,20 +47,20 @@ import keepsafe from "../assets/portfolio/keepsafe.png";
 import wayfinder from "../assets/portfolio/wayfinder.png";
 
 const Portfolio = () => {
-  const portfolios = [
-    {
-      id: 1,
-      src: keepsafe,
-      demoLink: "https://suryavenkat1824.github.io/Keep-Safe/",
-      codeLink: "https://github.com/suryavenkat1824/Keep-Safe",
-    },
-    {
-      id: 2,
-      src: wayfinder,
-      demoLink: "https://way-finder-1824.netlify.app/",
-      codeLink: "https://github.com/suryavenkat1824/WayFinder",
-    },
-  ];
+  // const portfolios = [
+  //   {
+  //     id: 1,
+  //     src: keepsafe,
+  //     demoLink: "https://suryavenkat1824.github.io/Keep-Safe/",
+  //     codeLink: "https://github.com/suryavenkat1824/Keep-Safe",
+  //   },
+  //   {
+  //     id: 2,
+  //     src: wayfinder,
+  //     demoLink: "https://way-finder-1824.netlify.app/",
+  //     codeLink: "https://github.com/suryavenkat1824/WayFinder",
+  //   },
+  // ];
 
   return (
     <div name="portfolio" 
