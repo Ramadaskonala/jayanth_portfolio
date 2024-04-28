@@ -1,5 +1,4 @@
 import React from 'react'
-import heroImage from '../assets/heroImage.jpeg'
 import {MdOutlineArrowForwardIos} from "react-icons/md";
 import { Link } from 'react-scroll';
 function Home() {
