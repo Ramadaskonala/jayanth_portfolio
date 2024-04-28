@@ -43,8 +43,6 @@
 
 
 import React from "react";
-import keepsafe from "../assets/portfolio/keepsafe.png";
-import wayfinder from "../assets/portfolio/wayfinder.png";
 
 const Portfolio = () => {
   // const portfolios = [
